@@ -1,0 +1,6 @@
+{
+  "name": "Product Inventory Management System",
+  "description": "Enterprise-grade Product Inventory Management System featuring product tracking, stock movements, purchases, sales invoicing, analytics, and full ASP.NET Core solution export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
